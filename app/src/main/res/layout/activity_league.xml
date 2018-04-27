@@ -83,7 +83,7 @@
             android:textOn="@string/womens" />
 
         <ToggleButton
-            android:id="@+id/co-edLeagueBtn"
+            android:id="@+id/coedLeagueBtn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@drawable/swoosh_toggle"
