@@ -1,3 +1,3 @@
-package com.jenk.swoosh
+package com.jenk.swoosh.Utilities
 
 const val EXTRA_LEAGUE = "league"
